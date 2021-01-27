@@ -1,0 +1,15 @@
+name: UnknownCube
+main: com.lewis252310.UnknownCube.UnknownCube
+version: 0.1.0
+description: Unknown Cube. A Crazy Enchantment of Infinite Possibilities.
+author: lewis252310(weed)
+api-version: 1.13
+commands:
+  unknowncube:
+    aliases: [uc, unkncube]
+    permission: unknowncube.use
+    usage: /unknowncube <text>
+    description: Main Command.
+permissions:
+  unknowncube:
+    default: op
